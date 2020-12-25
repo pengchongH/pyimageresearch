@@ -1,3 +1,3 @@
 # pyimageresearch
-Learning process\
+Learning process about computer vision\
 Include codes, photos and documents
